@@ -1,5 +1,5 @@
 Gem::Specification.new do |s|
-    s.name        = 'ruby-test4'
+    s.name        = 'ruby-test5'
     s.version     = '1.0.7'
     s.licenses    = ['MIT']
     s.summary     = "Summary"
